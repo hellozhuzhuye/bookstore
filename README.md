@@ -1,4 +1,4 @@
-# bookstore——基于JavaWeb的网上书城系统
+# BookStore——基于JavaWeb的网上书城系统
 
 ## 技术栈
 
@@ -62,3 +62,6 @@
     > 查询订单详细
     > 发货
     > 取消订单
+
+
+## 以后有空闲时间将会用Spring、SpringMVC、Mybatis重构此项目
